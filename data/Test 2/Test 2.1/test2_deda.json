@@ -1,0 +1,491 @@
+[
+  {
+    "id": "T2-DEDA-001",
+    "sentence_tr": "Kitaplarımı çantamın içinde unuttum, bunun da farkında değildim.",
+    "provided_annotation": "(Ek olan \"-de\" + Bağlaç \"da\")",
+    "expected_labels": [
+      {
+        "kind": "ek",
+        "surface": "-de"
+      },
+      {
+        "kind": "bağlaç",
+        "surface": "da"
+      }
+    ],
+    "occurrences_by_text": [
+      {
+        "kind": "ek",
+        "surface": "-de",
+        "start": 21,
+        "end": 27,
+        "host": "içinde"
+      },
+      {
+        "kind": "bağlaç",
+        "surface": "da",
+        "start": 43,
+        "end": 45
+      },
+      {
+        "kind": "ek",
+        "surface": "-da",
+        "start": 46,
+        "end": 54,
+        "host": "farkında"
+      }
+    ],
+    "expected_count": 2
+  },
+  {
+    "id": "T2-DEDA-002",
+    "sentence_tr": "Bu şehirde yaşayan herkesin kendine özgü hikayesi vardır, senin hikayen de çok ilginç.",
+    "provided_annotation": "(Ek olan \"-de\" + Bağlaç \"de\")",
+    "expected_labels": [
+      {
+        "kind": "ek",
+        "surface": "-de"
+      },
+      {
+        "kind": "bağlaç",
+        "surface": "de"
+      }
+    ],
+    "occurrences_by_text": [
+      {
+        "kind": "ek",
+        "surface": "-de",
+        "start": 3,
+        "end": 10,
+        "host": "şehirde"
+      },
+      {
+        "kind": "bağlaç",
+        "surface": "de",
+        "start": 72,
+        "end": 74
+      }
+    ],
+    "expected_count": 2
+  },
+  {
+    "id": "T2-DEDA-003",
+    "sentence_tr": "Parkta yürürken ayağım taşın üstüne bastı, orada biraz sendeledim ama düşmedim.",
+    "provided_annotation": "(Ek olan \"-da\")",
+    "expected_labels": [
+      {
+        "kind": "ek",
+        "surface": "-da"
+      }
+    ],
+    "occurrences_by_text": [
+      {
+        "kind": "ek",
+        "surface": "-da",
+        "start": 43,
+        "end": 48,
+        "host": "orada"
+      }
+    ],
+    "expected_count": 1
+  },
+  {
+    "id": "T2-DEDA-004",
+    "sentence_tr": "Bugün toplantıya erken gitmeliyiz, çünkü projede gecikmeler yaşandı ve bunu da göz önünde bulundurmalıyız.",
+    "provided_annotation": "(Bağlaç \"da\" + Ek olan \"-de\")",
+    "expected_labels": [
+      {
+        "kind": "bağlaç",
+        "surface": "da"
+      },
+      {
+        "kind": "ek",
+        "surface": "-de"
+      }
+    ],
+    "occurrences_by_text": [
+      {
+        "kind": "ek",
+        "surface": "-de",
+        "start": 41,
+        "end": 48,
+        "host": "projede"
+      },
+      {
+        "kind": "bağlaç",
+        "surface": "da",
+        "start": 76,
+        "end": 78
+      },
+      {
+        "kind": "ek",
+        "surface": "-de",
+        "start": 83,
+        "end": 89,
+        "host": "önünde"
+      }
+    ],
+    "expected_count": 2
+  },
+  {
+    "id": "T2-DEDA-005",
+    "sentence_tr": "Kitabın sayfaları kalın ve sararmış, ayrıca çizimlerin kalitesi de etkileyici.",
+    "provided_annotation": "(Bağlaç \"de”)",
+    "expected_labels": [
+      {
+        "kind": "bağlaç",
+        "surface": "de"
+      }
+    ],
+    "occurrences_by_text": [
+      {
+        "kind": "bağlaç",
+        "surface": "de",
+        "start": 64,
+        "end": 66
+      }
+    ],
+    "expected_count": 1
+  },
+  {
+    "id": "T2-DEDA-006",
+    "sentence_tr": "Kardeşim odasında müzik dinlerken ben mutfakta yemek yapıyorum, aslında bazen o ortamda ben de rahat ediyorum.",
+    "provided_annotation": "(Ek olan \"-de\" + Bağlaç \"de\")",
+    "expected_labels": [
+      {
+        "kind": "ek",
+        "surface": "-de"
+      },
+      {
+        "kind": "bağlaç",
+        "surface": "de"
+      }
+    ],
+    "occurrences_by_text": [
+      {
+        "kind": "ek",
+        "surface": "-da",
+        "start": 9,
+        "end": 17,
+        "host": "odasında"
+      },
+      {
+        "kind": "ek",
+        "surface": "-da",
+        "start": 64,
+        "end": 71,
+        "host": "aslında"
+      },
+      {
+        "kind": "ek",
+        "surface": "-da",
+        "start": 80,
+        "end": 87,
+        "host": "ortamda"
+      },
+      {
+        "kind": "bağlaç",
+        "surface": "de",
+        "start": 92,
+        "end": 94
+      }
+    ],
+    "expected_count": 2
+  },
+  {
+    "id": "T2-DEDA-007",
+    "sentence_tr": "Uzun süredir ormanda kamp yapmadım, geçen yaz gittiğim yerde ise hava çok güzeldi ve doğa da harikaydı.",
+    "provided_annotation": "(Ek olan \"-de\" + Bağlaç \"da\")",
+    "expected_labels": [
+      {
+        "kind": "ek",
+        "surface": "-de"
+      },
+      {
+        "kind": "bağlaç",
+        "surface": "da"
+      }
+    ],
+    "occurrences_by_text": [
+      {
+        "kind": "ek",
+        "surface": "-da",
+        "start": 13,
+        "end": 20,
+        "host": "ormanda"
+      },
+      {
+        "kind": "ek",
+        "surface": "-de",
+        "start": 55,
+        "end": 60,
+        "host": "yerde"
+      },
+      {
+        "kind": "bağlaç",
+        "surface": "da",
+        "start": 90,
+        "end": 92
+      }
+    ],
+    "expected_count": 2
+  },
+  {
+    "id": "T2-DEDA-008",
+    "sentence_tr": "Telefonun masanın üstünde duruyor, bana verir misin? Ayrıca şarj cihazını da unutma.",
+    "provided_annotation": "(Ek olan \"-de\" + Bağlaç \"da\")",
+    "expected_labels": [
+      {
+        "kind": "ek",
+        "surface": "-de"
+      },
+      {
+        "kind": "bağlaç",
+        "surface": "da"
+      }
+    ],
+    "occurrences_by_text": [
+      {
+        "kind": "ek",
+        "surface": "-de",
+        "start": 18,
+        "end": 25,
+        "host": "üstünde"
+      },
+      {
+        "kind": "bağlaç",
+        "surface": "da",
+        "start": 74,
+        "end": 76
+      }
+    ],
+    "expected_count": 2
+  },
+  {
+    "id": "T2-DEDA-009",
+    "sentence_tr": "Bu işin zorluklarını herkes bilmez, senin yaşadıkların da başka bir deneyim.",
+    "provided_annotation": "(Bağlaç \"da\")",
+    "expected_labels": [
+      {
+        "kind": "bağlaç",
+        "surface": "da"
+      }
+    ],
+    "occurrences_by_text": [
+      {
+        "kind": "bağlaç",
+        "surface": "da",
+        "start": 55,
+        "end": 57
+      }
+    ],
+    "expected_count": 1
+  },
+  {
+    "id": "T2-DEDA-010",
+    "sentence_tr": "Araba garajda park edilmiş, anahtarlar üzerinde ve belgeler de çantanın içindeydi.",
+    "provided_annotation": "(Ek olan \"-de\" + Bağlaç \"de\")",
+    "expected_labels": [
+      {
+        "kind": "ek",
+        "surface": "-de"
+      },
+      {
+        "kind": "bağlaç",
+        "surface": "de"
+      }
+    ],
+    "occurrences_by_text": [
+      {
+        "kind": "ek",
+        "surface": "-da",
+        "start": 6,
+        "end": 13,
+        "host": "garajda"
+      },
+      {
+        "kind": "ek",
+        "surface": "-de",
+        "start": 39,
+        "end": 47,
+        "host": "üzerinde"
+      },
+      {
+        "kind": "bağlaç",
+        "surface": "de",
+        "start": 60,
+        "end": 62
+      }
+    ],
+    "expected_count": 2
+  },
+  {
+    "id": "T2-DEDA-011",
+    "sentence_tr": "Akşam yemeği hazırlıkları mutfakta başladı ama sofra salonda kurulacak.",
+    "provided_annotation": "(Ek olan \"-de\" + Ek olan \"da\")",
+    "expected_labels": [
+      {
+        "kind": "ek",
+        "surface": "-de"
+      },
+      {
+        "kind": "ek",
+        "surface": "da"
+      }
+    ],
+    "occurrences_by_text": [
+      {
+        "kind": "ek",
+        "surface": "-da",
+        "start": 53,
+        "end": 60,
+        "host": "salonda"
+      }
+    ],
+    "expected_count": 2
+  },
+  {
+    "id": "T2-DEDA-012",
+    "sentence_tr": "Çalışma odasında eski kitaplar vardı, öğrencilere de dağıtılması planlanıyordu.",
+    "provided_annotation": "(Ek olan \"-de\" + Bağlaç \"de\")",
+    "expected_labels": [
+      {
+        "kind": "ek",
+        "surface": "-de"
+      },
+      {
+        "kind": "bağlaç",
+        "surface": "de"
+      }
+    ],
+    "occurrences_by_text": [
+      {
+        "kind": "ek",
+        "surface": "-da",
+        "start": 8,
+        "end": 16,
+        "host": "odasında"
+      },
+      {
+        "kind": "bağlaç",
+        "surface": "de",
+        "start": 50,
+        "end": 52
+      }
+    ],
+    "expected_count": 2
+  },
+  {
+    "id": "T2-DEDA-013",
+    "sentence_tr": "Kamp alanında ateşi yaktık, çadırlarımız da yakındaki ağaçların altında kuruluydu.",
+    "provided_annotation": "(Bağlaç \"da\" + Ek olan \"-da\")",
+    "expected_labels": [
+      {
+        "kind": "bağlaç",
+        "surface": "da"
+      },
+      {
+        "kind": "ek",
+        "surface": "-da"
+      }
+    ],
+    "occurrences_by_text": [
+      {
+        "kind": "ek",
+        "surface": "-da",
+        "start": 5,
+        "end": 13,
+        "host": "alanında"
+      },
+      {
+        "kind": "bağlaç",
+        "surface": "da",
+        "start": 41,
+        "end": 43
+      },
+      {
+        "kind": "ek",
+        "surface": "-da",
+        "start": 64,
+        "end": 71,
+        "host": "altında"
+      }
+    ],
+    "expected_count": 2
+  },
+  {
+    "id": "T2-DEDA-014",
+    "sentence_tr": "Sınavdan sonra herkes heyecanlıydı, Ali de sonuçları bekliyordu ve arkadaşları da aynı durumdaydı.",
+    "provided_annotation": "(Bağlaç \"de\" + Bağlaç \"da\")",
+    "expected_labels": [
+      {
+        "kind": "bağlaç",
+        "surface": "de"
+      },
+      {
+        "kind": "bağlaç",
+        "surface": "da"
+      }
+    ],
+    "occurrences_by_text": [
+      {
+        "kind": "bağlaç",
+        "surface": "de",
+        "start": 40,
+        "end": 42
+      },
+      {
+        "kind": "bağlaç",
+        "surface": "da",
+        "start": 79,
+        "end": 81
+      }
+    ],
+    "expected_count": 2
+  },
+  {
+    "id": "T2-DEDA-015",
+    "sentence_tr": "Yaz tatilinde sahilde yürürken denizin sesi insana huzur verir; ben de bazen orada uzun saatler kalırım.",
+    "provided_annotation": "(Bağlaç \"de\" + Ek olan \"-da\")",
+    "expected_labels": [
+      {
+        "kind": "bağlaç",
+        "surface": "de"
+      },
+      {
+        "kind": "ek",
+        "surface": "-da"
+      }
+    ],
+    "occurrences_by_text": [
+      {
+        "kind": "ek",
+        "surface": "-de",
+        "start": 4,
+        "end": 13,
+        "host": "tatilinde"
+      },
+      {
+        "kind": "ek",
+        "surface": "-de",
+        "start": 14,
+        "end": 21,
+        "host": "sahilde"
+      },
+      {
+        "kind": "bağlaç",
+        "surface": "de",
+        "start": 68,
+        "end": 70
+      },
+      {
+        "kind": "ek",
+        "surface": "-da",
+        "start": 77,
+        "end": 82,
+        "host": "orada"
+      }
+    ],
+    "expected_count": 2
+  }
+]

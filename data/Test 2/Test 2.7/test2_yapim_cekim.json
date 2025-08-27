@@ -1,0 +1,92 @@
+[
+  {
+    "id": "T2-YC-001",
+    "task_tr": "Üretim (isim): “kalp” kelimesini 1. tekil iyelik + belirtme (-I) yap.",
+    "expected_output": "kalbimi",
+    "expected_output_with_index": "1) kalbimi"
+  },
+  {
+    "id": "T2-YC-002",
+    "task_tr": "Üretim (isim): “renk” kelimesini 3. tekil iyelik + -dan yap.",
+    "expected_output": "renginden",
+    "expected_output_with_index": "2) renginden"
+  },
+  {
+    "id": "T2-YC-003",
+    "task_tr": "Üretim (isim): “oğul” kelimesini 3. tekil iyelik + belirtme (-I) yap.",
+    "expected_output": "oğlunu",
+    "expected_output_with_index": "3) oğlunu"
+  },
+  {
+    "id": "T2-YC-004",
+    "task_tr": "Çözümleme: “ağzımdan” kelimesini kök+ek olarak çözümle.",
+    "expected_output": "ağız + ım + dan",
+    "expected_output_with_index": "4) ağız + ım + dan"
+  },
+  {
+    "id": "T2-YC-005",
+    "task_tr": "Çözümleme: “kapısında” kelimesini kök+ek olarak çözümle.",
+    "expected_output": "kapı + sı + n + da",
+    "expected_output_with_index": "5) kapı + sı + n + da"
+  },
+  {
+    "id": "T2-YC-006",
+    "task_tr": "Hata düzeltme: Doğru biçimi yaz → “çocuklar bizi sevmiyecekler mi?”",
+    "expected_output": "çocuklar bizi sevmeyecekler mi?",
+    "expected_output_with_index": "6) çocuklar bizi sevmeyecekler mi?"
+  },
+  {
+    "id": "T2-YC-007",
+    "task_tr": "İkili tercih: Sadece A veya B yaz.\n   A) geliyor musun?\n   B) geliyormusun?",
+    "expected_output": "A",
+    "expected_output_with_index": "7) A"
+  },
+  {
+    "id": "T2-YC-008",
+    "task_tr": "Cloze: Boşluğu doğru ekle ve tüm kelimeyi yaz → su__ (-(y)A)",
+    "expected_output": "suya",
+    "expected_output_with_index": "8) suya"
+  },
+  {
+    "id": "T2-YC-009",
+    "task_tr": "Fiil: “gel-” fiilini 2. çoğul, öğrenilen geçmiş (-miş), soru yap (tek söz öbeği olarak yaz).",
+    "expected_output": "gelmiş miydiniz?",
+    "expected_output_with_index": "9) gelmiş miydiniz?"
+  },
+  {
+    "id": "T2-YC-010",
+    "task_tr": "Yeniden yazma: Cümleyi belirli nesne (-I) yap → “Ali ağaç kesti.”",
+    "expected_output": "Ali ağacı kesti.",
+    "expected_output_with_index": "10) Ali ağacı kesti."
+  },
+  {
+    "id": "T2-YC-011",
+    "task_tr": "Üretim (isim): “kapı” kelimesini 3. tekil iyelik + belirtme (-I) yap.",
+    "expected_output": "kapısını",
+    "expected_output_with_index": "11) kapısını"
+  },
+  {
+    "id": "T2-YC-012",
+    "task_tr": "Yüklem (ad + kopula + soru): “genç” sözcüğünü 1. tekil, soru biçimine getir.",
+    "expected_output": "genç miyim?",
+    "expected_output_with_index": "12) genç miyim?"
+  },
+  {
+    "id": "T2-YC-013",
+    "task_tr": "İkili tercih: Sadece A veya B yaz.\n   A) okula kadar\n   B) okuldan kadar",
+    "expected_output": "A",
+    "expected_output_with_index": "13) A"
+  },
+  {
+    "id": "T2-YC-014",
+    "task_tr": "Çözümleme: “gözlüğünüzü” kelimesini kök+ek olarak çözümle.",
+    "expected_output": "gözlük + ünüz + ü",
+    "expected_output_with_index": "14) gözlük + ünüz + ü"
+  },
+  {
+    "id": "T2-YC-015",
+    "task_tr": "Fiil: “yaz-” fiilini 2. çoğul, şimdiki zaman, olumsuz, soru yap.",
+    "expected_output": "yazmıyor musunuz?",
+    "expected_output_with_index": "15) yazmıyor musunuz?"
+  }
+]

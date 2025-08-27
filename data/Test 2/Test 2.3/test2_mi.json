@@ -1,0 +1,344 @@
+[
+  {
+    "id": "T2-MI-001",
+    "sentence_tr": "Bugün toplantıya katılacak kişi sen mi, yoksa Ahmet mi, bilmiyorum.",
+    "expected_labels": [
+      {
+        "kind": "soru_edatı",
+        "morpheme": "mi",
+        "surface": "mi"
+      },
+      {
+        "kind": "soru_edatı",
+        "morpheme": "mi",
+        "surface": "mi"
+      }
+    ],
+    "occurrences_by_text": [
+      {
+        "kind": "soru_edatı",
+        "surface": "mi",
+        "morpheme": "mi",
+        "start": 36,
+        "end": 38
+      },
+      {
+        "kind": "soru_edatı",
+        "surface": "mi",
+        "morpheme": "mi",
+        "start": 52,
+        "end": 54
+      }
+    ],
+    "expected_count": 2
+  },
+  {
+    "id": "T2-MI-002",
+    "sentence_tr": "Sence bu soruyu öğretmenimiz kendisi mi sordu, yoksa başka biri mi?",
+    "expected_labels": [
+      {
+        "kind": "soru_edatı",
+        "morpheme": "mi",
+        "surface": "mi"
+      },
+      {
+        "kind": "soru_edatı",
+        "morpheme": "mi",
+        "surface": "mi"
+      }
+    ],
+    "occurrences_by_text": [
+      {
+        "kind": "soru_edatı",
+        "surface": "mi",
+        "morpheme": "mi",
+        "start": 37,
+        "end": 39
+      },
+      {
+        "kind": "soru_edatı",
+        "surface": "mi",
+        "morpheme": "mi",
+        "start": 64,
+        "end": 66
+      }
+    ],
+    "expected_count": 2
+  },
+  {
+    "id": "T2-MI-003",
+    "sentence_tr": "Arkadaşlarınla beraber mi gidiyorsun, yoksa tek başına mı geleceksin?",
+    "expected_labels": [
+      {
+        "kind": "soru_edatı",
+        "morpheme": "mi",
+        "surface": "mi"
+      },
+      {
+        "kind": "soru_edatı",
+        "morpheme": "mı",
+        "surface": "mı"
+      }
+    ],
+    "occurrences_by_text": [
+      {
+        "kind": "soru_edatı",
+        "surface": "mi",
+        "morpheme": "mi",
+        "start": 23,
+        "end": 25
+      },
+      {
+        "kind": "soru_edatı",
+        "surface": "mı",
+        "morpheme": "mı",
+        "start": 55,
+        "end": 57
+      }
+    ],
+    "expected_count": 2
+  },
+  {
+    "id": "T2-MI-004",
+    "sentence_tr": "Bu kararı kendin mi verdin, yoksa başkalarının etkisi altında mı kaldın?",
+    "expected_labels": [
+      {
+        "kind": "soru_edatı",
+        "morpheme": "mi",
+        "surface": "mi"
+      },
+      {
+        "kind": "soru_edatı",
+        "morpheme": "mı",
+        "surface": "mı"
+      }
+    ],
+    "occurrences_by_text": [
+      {
+        "kind": "soru_edatı",
+        "surface": "mi",
+        "morpheme": "mi",
+        "start": 17,
+        "end": 19
+      },
+      {
+        "kind": "soru_edatı",
+        "surface": "mı",
+        "morpheme": "mı",
+        "start": 62,
+        "end": 64
+      }
+    ],
+    "expected_count": 2
+  },
+  {
+    "id": "T2-MI-005",
+    "sentence_tr": "Yarın hava yağmurlu mu, güneşli mi olacak, meteoroloji henüz açıklamadı.",
+    "expected_labels": [
+      {
+        "kind": "soru_edatı",
+        "morpheme": "mu",
+        "surface": "mu"
+      },
+      {
+        "kind": "soru_edatı",
+        "morpheme": "mi",
+        "surface": "mi"
+      }
+    ],
+    "occurrences_by_text": [
+      {
+        "kind": "soru_edatı",
+        "surface": "mu",
+        "morpheme": "mu",
+        "start": 20,
+        "end": 22
+      },
+      {
+        "kind": "soru_edatı",
+        "surface": "mi",
+        "morpheme": "mi",
+        "start": 32,
+        "end": 34
+      }
+    ],
+    "expected_count": 2
+  },
+  {
+    "id": "T2-MI-006",
+    "sentence_tr": "Kitabın sonunu sen mi yazdın, yoksa yazar başkasına mı bıraktı?",
+    "expected_labels": [
+      {
+        "kind": "soru_edatı",
+        "morpheme": "mi",
+        "surface": "mi"
+      },
+      {
+        "kind": "soru_edatı",
+        "morpheme": "mı",
+        "surface": "mı"
+      }
+    ],
+    "occurrences_by_text": [
+      {
+        "kind": "soru_edatı",
+        "surface": "mi",
+        "morpheme": "mi",
+        "start": 19,
+        "end": 21
+      },
+      {
+        "kind": "soru_edatı",
+        "surface": "mı",
+        "morpheme": "mı",
+        "start": 52,
+        "end": 54
+      }
+    ],
+    "expected_count": 2
+  },
+  {
+    "id": "T2-MI-007",
+    "sentence_tr": "Bu teklif gerçekten cazip mi, yoksa başka bir yerde daha iyi alternatif var mı?",
+    "expected_labels": [
+      {
+        "kind": "soru_edatı",
+        "morpheme": "mi",
+        "surface": "mi"
+      },
+      {
+        "kind": "soru_edatı",
+        "morpheme": "mı",
+        "surface": "mı"
+      }
+    ],
+    "occurrences_by_text": [
+      {
+        "kind": "soru_edatı",
+        "surface": "mi",
+        "morpheme": "mi",
+        "start": 26,
+        "end": 28
+      },
+      {
+        "kind": "soru_edatı",
+        "surface": "mı",
+        "morpheme": "mı",
+        "start": 76,
+        "end": 78
+      }
+    ],
+    "expected_count": 2
+  },
+  {
+    "id": "T2-MI-008",
+    "sentence_tr": "Evde kalıp ders çalışacak mısın, yoksa dışarı çıkıp arkadaşlarınla mı buluşacaksın?",
+    "expected_labels": [
+      {
+        "kind": "soru_edatı",
+        "morpheme": "mı",
+        "surface": "mısın"
+      },
+      {
+        "kind": "soru_edatı",
+        "morpheme": "mı",
+        "surface": "mı"
+      }
+    ],
+    "occurrences_by_text": [
+      {
+        "kind": "soru_edatı",
+        "surface": "mısın",
+        "morpheme": "mı",
+        "start": 26,
+        "end": 31
+      },
+      {
+        "kind": "soru_edatı",
+        "surface": "mı",
+        "morpheme": "mı",
+        "start": 67,
+        "end": 69
+      }
+    ],
+    "expected_count": 2
+  },
+  {
+    "id": "T2-MI-009",
+    "sentence_tr": "Yeni projeye başlamak senin fikrin mi, yoksa patronun mu istedi?",
+    "expected_labels": [
+      {
+        "kind": "soru_edatı",
+        "morpheme": "mi",
+        "surface": "mi"
+      },
+      {
+        "kind": "soru_edatı",
+        "morpheme": "mu",
+        "surface": "mu"
+      }
+    ],
+    "occurrences_by_text": [
+      {
+        "kind": "soru_edatı",
+        "surface": "mi",
+        "morpheme": "mi",
+        "start": 35,
+        "end": 37
+      },
+      {
+        "kind": "soru_edatı",
+        "surface": "mu",
+        "morpheme": "mu",
+        "start": 54,
+        "end": 56
+      }
+    ],
+    "expected_count": 2
+  },
+  {
+    "id": "T2-MI-010",
+    "sentence_tr": "Sınav sonuçlarını öğrenince mutlu oldun mu, yoksa beklediğin gibi çıkmadı mı?",
+    "expected_labels": [
+      {
+        "kind": "soru_edatı",
+        "morpheme": "mu",
+        "surface": "mutlu"
+      },
+      {
+        "kind": "soru_edatı",
+        "morpheme": "mu",
+        "surface": "mu"
+      },
+      {
+        "kind": "soru_edatı",
+        "morpheme": "mı",
+        "surface": "mı"
+      }
+    ],
+    "occurrences_by_text": [
+      {
+        "kind": "soru_edatı",
+        "surface": "mutlu",
+        "morpheme": "mu",
+        "start": 28,
+        "end": 33
+      },
+      {
+        "kind": "soru_edatı",
+        "surface": "mu",
+        "morpheme": "mu",
+        "start": 40,
+        "end": 42
+      },
+      {
+        "kind": "soru_edatı",
+        "surface": "mı",
+        "morpheme": "mı",
+        "start": 74,
+        "end": 76
+      }
+    ],
+    "expected_count": 3
+  }
+]

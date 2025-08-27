@@ -1,0 +1,213 @@
+[
+  {
+    "id": "T2-UNLU-001",
+    "sentence_tr_input": "Kavgacılığımdan dolayı çoğu kişi benimle konuşmaktan çekiniyor.",
+    "expected_output_lines": [
+      "EVET",
+      "Düzeltme: Kavgacılığımdan dolayı çoğu kişi benimle konuşmaktan çekiniyor.",
+      "Etiket: Yok ; Değişenler: []"
+    ],
+    "verdict": "EVET",
+    "corrected_sentence_tr": "Kavgacılığımdan dolayı çoğu kişi benimle konuşmaktan çekiniyor.",
+    "tag": "Yok",
+    "changes": []
+  },
+  {
+    "id": "T2-UNLU-002",
+    "sentence_tr_input": "Sınıfta en eğlencelisinizdir, her zaman ortamı neşelendiriyorsunuz.",
+    "expected_output_lines": [
+      "EVET",
+      "Düzeltme: Sınıfta en eğlencelisinizdir, her zaman ortamı neşelendiriyorsunuz.",
+      "Etiket: Yok ; Değişenler: []"
+    ],
+    "verdict": "EVET",
+    "corrected_sentence_tr": "Sınıfta en eğlencelisinizdir, her zaman ortamı neşelendiriyorsunuz.",
+    "tag": "Yok",
+    "changes": []
+  },
+  {
+    "id": "T2-UNLU-003",
+    "sentence_tr_input": "Projeyi çalıştırabileceklerimizdan yardım alacağız.",
+    "expected_output_lines": [
+      "HAYIR",
+      "Düzeltme: Projeyi çalıştırabileceklerimizden yardım alacağız.",
+      "Etiket: A-uyumu ; Değişenler: [çalıştırabileceklerimizdan→çalıştırabileceklerimizden]"
+    ],
+    "verdict": "HAYIR",
+    "corrected_sentence_tr": "Projeyi çalıştırabileceklerimizden yardım alacağız.",
+    "tag": "A-uyumu",
+    "changes": [
+      "çalıştırabileceklerimizdan→çalıştırabileceklerimizden"
+    ]
+  },
+  {
+    "id": "T2-UNLU-004",
+    "sentence_tr_input": "O güzelimlerdan birisi geçen gün hastaneye gitti.",
+    "expected_output_lines": [
+      "HAYIR",
+      "Düzeltme: O güzelimlerden birisi geçen gün hastaneye gitti.",
+      "Etiket: A-uyumu ; Değişenler: [güzelimlerdan→güzelimlerden]"
+    ],
+    "verdict": "HAYIR",
+    "corrected_sentence_tr": "O güzelimlerden birisi geçen gün hastaneye gitti.",
+    "tag": "A-uyumu",
+    "changes": [
+      "güzelimlerdan→güzelimlerden"
+    ]
+  },
+  {
+    "id": "T2-UNLU-005",
+    "sentence_tr_input": "Köprücük kemiğimizi incitmemek için dikkatli hareket etmeliyiz.",
+    "expected_output_lines": [
+      "EVET",
+      "Düzeltme: Köprücük kemiğimizi incitmemek için dikkatli hareket etmeliyiz.",
+      "Etiket: Yok ; Değişenler: []"
+    ],
+    "verdict": "EVET",
+    "corrected_sentence_tr": "Köprücük kemiğimizi incitmemek için dikkatli hareket etmeliyiz.",
+    "tag": "Yok",
+    "changes": []
+  },
+  {
+    "id": "T2-UNLU-006",
+    "sentence_tr_input": "Sakıncalılarındanmısınız diye sormadan önce biraz daha bilgi almalısın.",
+    "expected_output_lines": [
+      "EVET",
+      "Düzeltme: Sakıncalılarındanmısınız diye sormadan önce biraz daha bilgi almalısın.",
+      "Etiket: Yok ; Değişenler: []"
+    ],
+    "verdict": "EVET",
+    "corrected_sentence_tr": "Sakıncalılarındanmısınız diye sormadan önce biraz daha bilgi almalısın.",
+    "tag": "Yok",
+    "changes": []
+  },
+  {
+    "id": "T2-UNLU-007",
+    "sentence_tr_input": "Kütüphanedakilerden istediğin kitabı alabilirsin.",
+    "expected_output_lines": [
+      "HAYIR",
+      "Düzeltme: Kütüphanedekilerden istediğin kitabı alabilirsin.",
+      "Etiket: A-uyumu ; Değişenler: [Kütüphanedakilerden→Kütüphanedekilerden]"
+    ],
+    "verdict": "HAYIR",
+    "corrected_sentence_tr": "Kütüphanedekilerden istediğin kitabı alabilirsin.",
+    "tag": "A-uyumu",
+    "changes": [
+      "Kütüphanedakilerden→Kütüphanedekilerden"
+    ]
+  },
+  {
+    "id": "T2-UNLU-008",
+    "sentence_tr_input": "Sevindiricilerdanmişsiniz, bunu duyunca çok mutlu oldum.",
+    "expected_output_lines": [
+      "HAYIR",
+      "Düzeltme: Sevindiricilerdenmişsiniz, bunu duyunca çok mutlu oldum.",
+      "Etiket: A-uyumu ; Değişenler: [Sevindiricilerdanmişsiniz→Sevindiricilerdenmişsiniz]"
+    ],
+    "verdict": "HAYIR",
+    "corrected_sentence_tr": "Sevindiricilerdenmişsiniz, bunu duyunca çok mutlu oldum.",
+    "tag": "A-uyumu",
+    "changes": [
+      "Sevindiricilerdanmişsiniz→Sevindiricilerdenmişsiniz"
+    ]
+  },
+  {
+    "id": "T2-UNLU-009",
+    "sentence_tr_input": "Anlatabileceklerinizden biraz bahsettiniz ama yetmedi.",
+    "expected_output_lines": [
+      "EVET",
+      "Düzeltme: Anlatabileceklerinizden biraz bahsettiniz ama yetmedi.",
+      "Etiket: Yok ; Değişenler: []"
+    ],
+    "verdict": "EVET",
+    "corrected_sentence_tr": "Anlatabileceklerinizden biraz bahsettiniz ama yetmedi.",
+    "tag": "Yok",
+    "changes": []
+  },
+  {
+    "id": "T2-UNLU-010",
+    "sentence_tr_input": "Kuyruklu yıldızimizda farklı bir enerji türü varmış.",
+    "expected_output_lines": [
+      "HAYIR",
+      "Düzeltme: Kuyruklu yıldızımızda farklı bir enerji türü varmış.",
+      "Etiket: I-uyumu ; Değişenler: [yıldızimizda→yıldızımızda]"
+    ],
+    "verdict": "HAYIR",
+    "corrected_sentence_tr": "Kuyruklu yıldızımızda farklı bir enerji türü varmış.",
+    "tag": "I-uyumu",
+    "changes": [
+      "yıldızimizda→yıldızımızda"
+    ]
+  },
+  {
+    "id": "T2-UNLU-011",
+    "sentence_tr_input": "Uyandırabileceklerinizden bazıları gerçekten etkili oluyor.",
+    "expected_output_lines": [
+      "EVET",
+      "Düzeltme: Uyandırabileceklerinizden bazıları gerçekten etkili oluyor.",
+      "Etiket: Yok ; Değişenler: []"
+    ],
+    "verdict": "EVET",
+    "corrected_sentence_tr": "Uyandırabileceklerinizden bazıları gerçekten etkili oluyor.",
+    "tag": "Yok",
+    "changes": []
+  },
+  {
+    "id": "T2-UNLU-012",
+    "sentence_tr_input": "Büyüteçsizmişsiniz, yakınlere dikkat etmek zorlaşıyor.",
+    "expected_output_lines": [
+      "HAYIR",
+      "Düzeltme: Büyüteçsizmişsiniz, yakınlara dikkat etmek zorlaşıyor.",
+      "Etiket: -lAr ; Değişenler: [yakınlere→yakınlara]"
+    ],
+    "verdict": "HAYIR",
+    "corrected_sentence_tr": "Büyüteçsizmişsiniz, yakınlara dikkat etmek zorlaşıyor.",
+    "tag": "-lAr",
+    "changes": [
+      "yakınlere→yakınlara"
+    ]
+  },
+  {
+    "id": "T2-UNLU-013",
+    "sentence_tr_input": "Güçlendirebileceklerinizden destek almak faydalı olabilir.",
+    "expected_output_lines": [
+      "EVET",
+      "Düzeltme: Güçlendirebileceklerinizden destek almak faydalı olabilir.",
+      "Etiket: Yok ; Değişenler: []"
+    ],
+    "verdict": "EVET",
+    "corrected_sentence_tr": "Güçlendirebileceklerinizden destek almak faydalı olabilir.",
+    "tag": "Yok",
+    "changes": []
+  },
+  {
+    "id": "T2-UNLU-014",
+    "sentence_tr_input": "Kaygısızlıklerindenmişse, neden bu kadar rahat davrandığını anlarım.",
+    "expected_output_lines": [
+      "HAYIR",
+      "Düzeltme: Kaygısızlıklarındanmışsa, neden bu kadar rahat davrandığını anlarım.",
+      "Etiket: A-uyumu ; Değişenler: [Kaygısızlıklerindenmişse→Kaygısızlıklarındanmışsa]"
+    ],
+    "verdict": "HAYIR",
+    "corrected_sentence_tr": "Kaygısızlıklarındanmışsa, neden bu kadar rahat davrandığını anlarım.",
+    "tag": "A-uyumu",
+    "changes": [
+      "Kaygısızlıklerindenmişse→Kaygısızlıklarındanmışsa"
+    ]
+  },
+  {
+    "id": "T2-UNLU-015",
+    "sentence_tr_input": "Yardımlaşabileceklerimizdanmişsiniz, bu güzel bir özellik.",
+    "expected_output_lines": [
+      "HAYIR",
+      "Düzeltme: Yardımlaşabileceklerimizdenmişsiniz, bu güzel bir özellik.",
+      "Etiket: A-uyumu ; Değişenler: [Yardımlaşabileceklerimizdanmişsiniz→Yardımlaşabileceklerimizdenmişsiniz]"
+    ],
+    "verdict": "HAYIR",
+    "corrected_sentence_tr": "Yardımlaşabileceklerimizdenmişsiniz, bu güzel bir özellik.",
+    "tag": "A-uyumu",
+    "changes": [
+      "Yardımlaşabileceklerimizdanmişsiniz→Yardımlaşabileceklerimizdenmişsiniz"
+    ]
+  }
+]

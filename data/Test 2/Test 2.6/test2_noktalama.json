@@ -1,0 +1,107 @@
+[
+  {
+    "id": "T2-NOK-001",
+    "input_raw": "TBMM23Nisan1920deaçıldıAtatürkünliderliğindeyenibirdönembaşladı",
+    "expected_output_lines": [
+      "Düzeltme: TBMM 23 Nisan 1920’de açıldı; Atatürk’ün liderliğinde yeni bir dönem başladı."
+    ]
+  },
+  {
+    "id": "T2-NOK-002",
+    "input_raw": "TürkiyeCumhuriyetinin100yılıkapsamındakonserlersergilervesöyleşilerdüzenlenecek",
+    "expected_output_lines": [
+      "Düzeltme: Türkiye Cumhuriyeti’nin 100. yılı kapsamında konserler, sergiler ve söyleşiler düzenlenecek."
+    ]
+  },
+  {
+    "id": "T2-NOK-003",
+    "input_raw": "2025inilkçeyreğindeOcakMartyatırımplanıgüncellenecek",
+    "expected_output_lines": [
+      "Düzeltme: 2025’in ilk çeyreğinde Ocak–Mart yatırım planı güncellenecek."
+    ]
+  },
+  {
+    "id": "T2-NOK-004",
+    "input_raw": "Toplantı10001230arasındasürecek1345tekısabirdeğerlendirmeyapılacak",
+    "expected_output_lines": [
+      "Düzeltme: Toplantı 10.00–12.30 arasında sürecek; 13.45’te kısa bir değerlendirme yapılacak."
+    ]
+  },
+  {
+    "id": "T2-NOK-005",
+    "input_raw": "Bütçe10000TLolarakonaylandıödemetakvimi01092025tarihlisözleşmedeyeralıyor",
+    "expected_output_lines": [
+      "Düzeltme: Bütçe 10.000 TL olarak onaylandı; ödeme takvimi 01.09.2025 tarihli sözleşmede yer alıyor."
+    ]
+  },
+  {
+    "id": "T2-NOK-006",
+    "input_raw": "Acilkodlugörevibugüntamamlayalımdedimüdüryarındeğerlendiririz",
+    "expected_output_lines": [
+      "Düzeltme: “Acil kodlu görevi bugün tamamlayalım,” dedi müdür, “yarın değerlendiririz.”"
+    ]
+  },
+  {
+    "id": "T2-NOK-007",
+    "input_raw": "TÜBİTAKınTürkiyeBilimselveTeknolojikAraştırmaKurumu2024tebaşlattığıprogramgenişletildi",
+    "expected_output_lines": [
+      "Düzeltme: TÜBİTAK’ın (Türkiye Bilimsel ve Teknolojik Araştırma Kurumu) 2024’te başlattığı program genişletildi."
+    ]
+  },
+  {
+    "id": "T2-NOK-008",
+    "input_raw": "ProfDrAyşeDemirinZamanveToplummakalesikurumkültürübelirsizlikveuyumbaşlıklarınıvurguluyor",
+    "expected_output_lines": [
+      "Düzeltme: Prof. Dr. Ayşe Demir’in “Zaman ve Toplum” makalesi; kurum kültürü, belirsizlik ve uyum başlıklarını vurguluyor."
+    ]
+  },
+  {
+    "id": "T2-NOK-009",
+    "input_raw": "31122024tarihliraporonaylandadağıtımlistesiEk1de",
+    "expected_output_lines": [
+      "Düzeltme: 31.12.2024 tarihli rapor onaylandı; dağıtım listesi Ek-1’de."
+    ]
+  },
+  {
+    "id": "T2-NOK-010",
+    "input_raw": "İstanbulunKadıköyünde1430dabuluşalımardındanÜsküdarageçeriz",
+    "expected_output_lines": [
+      "Düzeltme: İstanbul’un Kadıköy’ünde 14.30’da buluşalım; ardından Üsküdar’a geçeriz."
+    ]
+  },
+  {
+    "id": "T2-NOK-011",
+    "input_raw": "21yüzyılınbaşındakidönüşüm19yüzyıldakindenfarklıdinamikleredayanıyor",
+    "expected_output_lines": [
+      "Düzeltme: 21. yüzyılın başındaki dönüşüm, 19. yüzyıldakinden farklı dinamiklere dayanıyor."
+    ]
+  },
+  {
+    "id": "T2-NOK-012",
+    "input_raw": "YenistratejineolacakVeriyedayalıbüyümeyanıtıverildi",
+    "expected_output_lines": [
+      "Düzeltme: Yeni strateji ne olacak? “Veriye dayalı büyüme,” yanıtı verildi."
+    ]
+  },
+  {
+    "id": "T2-NOK-013",
+    "input_raw": "Ankarada29Ekim2023teCumhuriyetYürüyüşügerçekleştirildikatılım250000kişiyiaştı",
+    "expected_output_lines": [
+      "Düzeltme: Ankara’da 29 Ekim 2023’te Cumhuriyet Yürüyüşü gerçekleştirildi; katılım 250.000 kişiyi aştı."
+    ]
+  },
+  {
+    "id": "T2-NOK-014",
+    "input_raw": "NASAnınMarsgörevikapsamında2026dayenibirfırlatmapenceresiplanlanıyor",
+    "expected_output_lines": [
+      "Düzeltme: NASA’nın Mars görevi kapsamında 2026’da yeni bir fırlatma penceresi planlanıyor."
+    ]
+  },
+  {
+    "id": "T2-NOK-015",
+    "input_raw": "HacettepeÜniversitesininHacettepeÜnivyenikampüsü2025teaçılıyor",
+    "expected_output_lines": [
+      "Düzeltme: Hacettepe Üniversitesi’nin (Hacettepe Üniv.) yeni kampüsü 2025’te açılıyor."
+    ]
+  }
+]

@@ -1,0 +1,200 @@
+{"id": "T1-C-001", "group": "control", "given": "Öngörü", "expected_label": "EVET", "expected_canonical": "Öngörü", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-002", "group": "control", "given": "Ön yargı", "expected_label": "EVET", "expected_canonical": "Ön yargı", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-003", "group": "control", "given": "acente", "expected_label": "EVET", "expected_canonical": "acente", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-004", "group": "control", "given": "adale", "expected_label": "EVET", "expected_canonical": "adale", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-005", "group": "control", "given": "aforoz", "expected_label": "EVET", "expected_canonical": "aforoz", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-006", "group": "control", "given": "acayip", "expected_label": "EVET", "expected_canonical": "acayip", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-007", "group": "control", "given": "afili", "expected_label": "EVET", "expected_canonical": "afili", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-008", "group": "control", "given": "ahbap", "expected_label": "EVET", "expected_canonical": "ahbap", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-009", "group": "control", "given": "akupunktur", "expected_label": "EVET", "expected_canonical": "akupunktur", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-010", "group": "control", "given": "alüminyum", "expected_label": "EVET", "expected_canonical": "alüminyum", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-011", "group": "control", "given": "amortisör", "expected_label": "EVET", "expected_canonical": "amortisör", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-012", "group": "control", "given": "alabora", "expected_label": "EVET", "expected_canonical": "alabora", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-013", "group": "control", "given": "ambulans", "expected_label": "EVET", "expected_canonical": "ambulans", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-014", "group": "control", "given": "anatomi", "expected_label": "EVET", "expected_canonical": "anatomi", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-015", "group": "control", "given": "antrenman", "expected_label": "EVET", "expected_canonical": "antrenman", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-016", "group": "control", "given": "aperitif", "expected_label": "EVET", "expected_canonical": "aperitif", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-017", "group": "control", "given": "hoparlör", "expected_label": "EVET", "expected_canonical": "hoparlör", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-018", "group": "control", "given": "art arda", "expected_label": "EVET", "expected_canonical": "art arda", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-019", "group": "control", "given": "asgari", "expected_label": "EVET", "expected_canonical": "asgari", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-020", "group": "control", "given": "ataş", "expected_label": "EVET", "expected_canonical": "ataş", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-021", "group": "control", "given": "ataşe", "expected_label": "EVET", "expected_canonical": "ataşe", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-022", "group": "control", "given": "aut", "expected_label": "EVET", "expected_canonical": "aut", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-023", "group": "control", "given": "Azerbaycan", "expected_label": "EVET", "expected_canonical": "Azerbaycan", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-024", "group": "control", "given": "Bağırsak", "expected_label": "EVET", "expected_canonical": "Bağırsak", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-025", "group": "control", "given": "Birader", "expected_label": "EVET", "expected_canonical": "Birader", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-026", "group": "control", "given": "Bilinçaltı", "expected_label": "EVET", "expected_canonical": "Bilinçaltı", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-027", "group": "control", "given": "Bihaber", "expected_label": "EVET", "expected_canonical": "Bihaber", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-028", "group": "control", "given": "Bisküvi", "expected_label": "EVET", "expected_canonical": "Bisküvi", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-029", "group": "control", "given": "boy bos", "expected_label": "EVET", "expected_canonical": "boy bos", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-030", "group": "control", "given": "boa yılanı", "expected_label": "EVET", "expected_canonical": "boa yılanı", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-031", "group": "control", "given": "jimnastik", "expected_label": "EVET", "expected_canonical": "jimnastik", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-032", "group": "control", "given": "cambaz", "expected_label": "EVET", "expected_canonical": "cambaz", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-033", "group": "control", "given": "cereyan", "expected_label": "EVET", "expected_canonical": "cereyan", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-034", "group": "control", "given": "dekorasyon", "expected_label": "EVET", "expected_canonical": "dekorasyon", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-035", "group": "control", "given": "dekoratör", "expected_label": "EVET", "expected_canonical": "dekoratör", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-036", "group": "control", "given": "dinozor", "expected_label": "EVET", "expected_canonical": "dinozor", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-037", "group": "control", "given": "doküman", "expected_label": "EVET", "expected_canonical": "doküman", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-038", "group": "control", "given": "eksantrik", "expected_label": "EVET", "expected_canonical": "eksantrik", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-039", "group": "control", "given": "egzoz", "expected_label": "EVET", "expected_canonical": "egzoz", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-040", "group": "control", "given": "enstitü", "expected_label": "EVET", "expected_canonical": "enstitü", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-041", "group": "control", "given": "entelektüel", "expected_label": "EVET", "expected_canonical": "entelektüel", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-042", "group": "control", "given": "enteresan", "expected_label": "EVET", "expected_canonical": "enteresan", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-043", "group": "control", "given": "erozyon", "expected_label": "EVET", "expected_canonical": "erozyon", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-044", "group": "control", "given": "eskrim", "expected_label": "EVET", "expected_canonical": "eskrim", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-045", "group": "control", "given": "espri", "expected_label": "EVET", "expected_canonical": "espri", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-046", "group": "control", "given": "eşkâl", "expected_label": "EVET", "expected_canonical": "eşkâl", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-047", "group": "control", "given": "fasulye", "expected_label": "EVET", "expected_canonical": "fasulye", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-048", "group": "control", "given": "feshetmek", "expected_label": "EVET", "expected_canonical": "feshetmek", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-049", "group": "control", "given": "gardırop", "expected_label": "EVET", "expected_canonical": "gardırop", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-050", "group": "control", "given": "gazete", "expected_label": "EVET", "expected_canonical": "gazete", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-051", "group": "control", "given": "halüsinasyon", "expected_label": "EVET", "expected_canonical": "halüsinasyon", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-052", "group": "control", "given": "herkes", "expected_label": "EVET", "expected_canonical": "herkes", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-053", "group": "control", "given": "heyecan", "expected_label": "EVET", "expected_canonical": "heyecan", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-054", "group": "control", "given": "Hristiyan", "expected_label": "EVET", "expected_canonical": "Hristiyan", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-055", "group": "control", "given": "iskonto", "expected_label": "EVET", "expected_canonical": "iskonto", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-056", "group": "control", "given": "ızdırap", "expected_label": "EVET", "expected_canonical": "ızdırap", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-057", "group": "control", "given": "illüzyon", "expected_label": "EVET", "expected_canonical": "illüzyon", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-058", "group": "control", "given": "inkılap", "expected_label": "EVET", "expected_canonical": "inkılap", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-059", "group": "control", "given": "inisiyatif", "expected_label": "EVET", "expected_canonical": "inisiyatif", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-060", "group": "control", "given": "izolasyon", "expected_label": "EVET", "expected_canonical": "izolasyon", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-061", "group": "control", "given": "karnabahar", "expected_label": "EVET", "expected_canonical": "karnabahar", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-062", "group": "control", "given": "kalemşor", "expected_label": "EVET", "expected_canonical": "kalemşor", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-063", "group": "control", "given": "kakofoni", "expected_label": "EVET", "expected_canonical": "kakofoni", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-064", "group": "control", "given": "koreografi", "expected_label": "EVET", "expected_canonical": "koreografi", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-065", "group": "control", "given": "kıraathane", "expected_label": "EVET", "expected_canonical": "kıraathane", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-066", "group": "control", "given": "külot", "expected_label": "EVET", "expected_canonical": "külot", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-067", "group": "control", "given": "kirpik", "expected_label": "EVET", "expected_canonical": "kirpik", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-068", "group": "control", "given": "kilitlemek", "expected_label": "EVET", "expected_canonical": "kilitlemek", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-069", "group": "control", "given": "kılavuz", "expected_label": "EVET", "expected_canonical": "kılavuz", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-070", "group": "control", "given": "kulüp", "expected_label": "EVET", "expected_canonical": "kulüp", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-071", "group": "control", "given": "kokoreç", "expected_label": "EVET", "expected_canonical": "kokoreç", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-072", "group": "control", "given": "komünist", "expected_label": "EVET", "expected_canonical": "komünist", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-073", "group": "control", "given": "komünikasyon", "expected_label": "EVET", "expected_canonical": "komünikasyon", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-074", "group": "control", "given": "konsensüs", "expected_label": "EVET", "expected_canonical": "konsensüs", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-075", "group": "control", "given": "laboratuvar", "expected_label": "EVET", "expected_canonical": "laboratuvar", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-076", "group": "control", "given": "yeryüzü", "expected_label": "EVET", "expected_canonical": "yeryüzü", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-077", "group": "control", "given": "anbean", "expected_label": "EVET", "expected_canonical": "anbean", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-078", "group": "control", "given": "ön izleme", "expected_label": "EVET", "expected_canonical": "ön izleme", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-079", "group": "control", "given": "ajitasyon", "expected_label": "EVET", "expected_canonical": "ajitasyon", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-080", "group": "control", "given": "alt yazı", "expected_label": "EVET", "expected_canonical": "alt yazı", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-081", "group": "control", "given": "birkaç", "expected_label": "EVET", "expected_canonical": "birkaç", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-082", "group": "control", "given": "akşamüstü", "expected_label": "EVET", "expected_canonical": "akşamüstü", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-083", "group": "control", "given": "başöğretmen", "expected_label": "EVET", "expected_canonical": "başöğretmen", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-084", "group": "control", "given": "yılbaşı", "expected_label": "EVET", "expected_canonical": "yılbaşı", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-085", "group": "control", "given": "mahsul", "expected_label": "EVET", "expected_canonical": "mahsul", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-086", "group": "control", "given": "apandisit", "expected_label": "EVET", "expected_canonical": "apandisit", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-087", "group": "control", "given": "bayağı", "expected_label": "EVET", "expected_canonical": "bayağı", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-088", "group": "control", "given": "bugün", "expected_label": "EVET", "expected_canonical": "bugün", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-089", "group": "control", "given": "cami", "expected_label": "EVET", "expected_canonical": "cami", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-090", "group": "control", "given": "eğlence", "expected_label": "EVET", "expected_canonical": "eğlence", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-091", "group": "control", "given": "konteyner", "expected_label": "EVET", "expected_canonical": "konteyner", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-092", "group": "control", "given": "kontur", "expected_label": "EVET", "expected_canonical": "kontur", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-093", "group": "control", "given": "eşkıya", "expected_label": "EVET", "expected_canonical": "eşkıya", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-094", "group": "control", "given": "glüten", "expected_label": "EVET", "expected_canonical": "glüten", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-095", "group": "control", "given": "gözyaşı", "expected_label": "EVET", "expected_canonical": "gözyaşı", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-096", "group": "control", "given": "had safhada", "expected_label": "EVET", "expected_canonical": "had safhada", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-097", "group": "control", "given": "hafriyat", "expected_label": "EVET", "expected_canonical": "hafriyat", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-098", "group": "control", "given": "hazırcevap", "expected_label": "EVET", "expected_canonical": "hazırcevap", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-099", "group": "control", "given": "her biri", "expected_label": "EVET", "expected_canonical": "her biri", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-C-100", "group": "control", "given": "herhangi bir", "expected_label": "EVET", "expected_canonical": "herhangi bir", "notes": "Kontrol listesi (doğru yazım)"}
+{"id": "T1-W-001", "group": "challenge", "given": "mahçup", "expected_label": "HAYIR", "expected_canonical": "mahcup", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-002", "group": "challenge", "given": "mahfolmak", "expected_label": "HAYIR", "expected_canonical": "mahvolmak", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-003", "group": "challenge", "given": "makina", "expected_label": "HAYIR", "expected_canonical": "makine", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-004", "group": "challenge", "given": "maktül", "expected_label": "HAYIR", "expected_canonical": "maktul", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-005", "group": "challenge", "given": "manüpülasyon", "expected_label": "HAYIR", "expected_canonical": "manipülasyon", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-006", "group": "challenge", "given": "maydonoz", "expected_label": "HAYIR", "expected_canonical": "maydanoz", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-007", "group": "challenge", "given": "mefta", "expected_label": "HAYIR", "expected_canonical": "mevta", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-008", "group": "challenge", "given": "megoloman", "expected_label": "HAYIR", "expected_canonical": "megaloman", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-009", "group": "challenge", "given": "menapoz", "expected_label": "HAYIR", "expected_canonical": "menopoz", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-010", "group": "challenge", "given": "menejer", "expected_label": "HAYIR", "expected_canonical": "menajer", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-011", "group": "challenge", "given": "mentalite", "expected_label": "HAYIR", "expected_canonical": "mantalite", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-012", "group": "challenge", "given": "menüsküs", "expected_label": "HAYIR", "expected_canonical": "menisküs", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-013", "group": "challenge", "given": "muaffak", "expected_label": "HAYIR", "expected_canonical": "muvaffak", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-014", "group": "challenge", "given": "muhattap", "expected_label": "HAYIR", "expected_canonical": "muhatap", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-015", "group": "challenge", "given": "münübüs", "expected_label": "HAYIR", "expected_canonical": "minibüs", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-016", "group": "challenge", "given": "müsvette", "expected_label": "HAYIR", "expected_canonical": "müsvedde", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-017", "group": "challenge", "given": "mütahit", "expected_label": "HAYIR", "expected_canonical": "müteahhit", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-018", "group": "challenge", "given": "naturel", "expected_label": "HAYIR", "expected_canonical": "natürel", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-019", "group": "challenge", "given": "orjinal", "expected_label": "HAYIR", "expected_canonical": "orijinal", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-020", "group": "challenge", "given": "öğe", "expected_label": "HAYIR", "expected_canonical": "öge", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-021", "group": "challenge", "given": "ötenazi", "expected_label": "HAYIR", "expected_canonical": "ötanazi", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-022", "group": "challenge", "given": "palyanço", "expected_label": "HAYIR", "expected_canonical": "palyaço", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-023", "group": "challenge", "given": "panaroma", "expected_label": "HAYIR", "expected_canonical": "panorama", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-024", "group": "challenge", "given": "pantalon", "expected_label": "HAYIR", "expected_canonical": "pantolon", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-025", "group": "challenge", "given": "parağraf", "expected_label": "HAYIR", "expected_canonical": "paragraf", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-026", "group": "challenge", "given": "pardesü", "expected_label": "HAYIR", "expected_canonical": "pardösü", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-027", "group": "challenge", "given": "toz pembe", "expected_label": "HAYIR", "expected_canonical": "tozpembe", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-028", "group": "challenge", "given": "parende", "expected_label": "HAYIR", "expected_canonical": "perende", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-029", "group": "challenge", "given": "parlementer", "expected_label": "HAYIR", "expected_canonical": "parlamenter", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-030", "group": "challenge", "given": "parlemento", "expected_label": "HAYIR", "expected_canonical": "parlamento", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-031", "group": "challenge", "given": "radyosyon", "expected_label": "HAYIR", "expected_canonical": "radyasyon", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-032", "group": "challenge", "given": "raslantı", "expected_label": "HAYIR", "expected_canonical": "rastlantı", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-033", "group": "challenge", "given": "rasgele", "expected_label": "HAYIR", "expected_canonical": "rastgele", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-034", "group": "challenge", "given": "ropörtaj", "expected_label": "HAYIR", "expected_canonical": "röportaj", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-035", "group": "challenge", "given": "rezarvasyon", "expected_label": "HAYIR", "expected_canonical": "rezervasyon", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-036", "group": "challenge", "given": "sağnak", "expected_label": "HAYIR", "expected_canonical": "sağanak", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-037", "group": "challenge", "given": "sandoviç", "expected_label": "HAYIR", "expected_canonical": "sandviç", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-038", "group": "challenge", "given": "sarmısak", "expected_label": "HAYIR", "expected_canonical": "sarımsak", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-039", "group": "challenge", "given": "seramoni", "expected_label": "HAYIR", "expected_canonical": "seremoni", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-040", "group": "challenge", "given": "serbes", "expected_label": "HAYIR", "expected_canonical": "serbest", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-041", "group": "challenge", "given": "seyehat", "expected_label": "HAYIR", "expected_canonical": "seyahat", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-042", "group": "challenge", "given": "sezeryan", "expected_label": "HAYIR", "expected_canonical": "sezaryen", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-043", "group": "challenge", "given": "silahşör", "expected_label": "HAYIR", "expected_canonical": "silahşor", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-044", "group": "challenge", "given": "sohpet", "expected_label": "HAYIR", "expected_canonical": "sohbet", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-045", "group": "challenge", "given": "sueter", "expected_label": "HAYIR", "expected_canonical": "süveter", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-046", "group": "challenge", "given": "südyen", "expected_label": "HAYIR", "expected_canonical": "sütyen", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-047", "group": "challenge", "given": "sükûtuhayal", "expected_label": "HAYIR", "expected_canonical": "sukutuhayal", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-048", "group": "challenge", "given": "süpriz", "expected_label": "HAYIR", "expected_canonical": "sürpriz", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-049", "group": "challenge", "given": "sütüdyo", "expected_label": "HAYIR", "expected_canonical": "stüdyo", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-050", "group": "challenge", "given": "şanzuman", "expected_label": "HAYIR", "expected_canonical": "şanzıman", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-051", "group": "challenge", "given": "şarter", "expected_label": "HAYIR", "expected_canonical": "şalter", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-052", "group": "challenge", "given": "şarz", "expected_label": "HAYIR", "expected_canonical": "şarj", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-053", "group": "challenge", "given": "şayibe", "expected_label": "HAYIR", "expected_canonical": "şaibe", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-054", "group": "challenge", "given": "şemşiye", "expected_label": "HAYIR", "expected_canonical": "şemsiye", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-055", "group": "challenge", "given": "şevkat", "expected_label": "HAYIR", "expected_canonical": "şefkat", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-056", "group": "challenge", "given": "şifai", "expected_label": "HAYIR", "expected_canonical": "şifahi", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-057", "group": "challenge", "given": "şohben", "expected_label": "HAYIR", "expected_canonical": "şofben", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-058", "group": "challenge", "given": "şöför", "expected_label": "HAYIR", "expected_canonical": "şoför", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-059", "group": "challenge", "given": "tabiyat", "expected_label": "HAYIR", "expected_canonical": "tabiat", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-060", "group": "challenge", "given": "tahüt", "expected_label": "HAYIR", "expected_canonical": "taahhü", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-061", "group": "challenge", "given": "tahtarevalli", "expected_label": "HAYIR", "expected_canonical": "tahterevalli", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-062", "group": "challenge", "given": "taktim", "expected_label": "HAYIR", "expected_canonical": "takdim", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-063", "group": "challenge", "given": "tastik", "expected_label": "HAYIR", "expected_canonical": "tasdik", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-064", "group": "challenge", "given": "tanpon", "expected_label": "HAYIR", "expected_canonical": "tampon", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-065", "group": "challenge", "given": "tasfir", "expected_label": "HAYIR", "expected_canonical": "tasvir", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-066", "group": "challenge", "given": "tasviye", "expected_label": "HAYIR", "expected_canonical": "tasfiye", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-067", "group": "challenge", "given": "taşaron", "expected_label": "HAYIR", "expected_canonical": "taşeron", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-068", "group": "challenge", "given": "teferuat", "expected_label": "HAYIR", "expected_canonical": "teferruat", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-069", "group": "challenge", "given": "tenbih", "expected_label": "HAYIR", "expected_canonical": "tembih", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-070", "group": "challenge", "given": "tenefüs", "expected_label": "HAYIR", "expected_canonical": "teneffüs", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-071", "group": "challenge", "given": "tesbih", "expected_label": "HAYIR", "expected_canonical": "tespih", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-072", "group": "challenge", "given": "tesbit", "expected_label": "HAYIR", "expected_canonical": "tespit", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-073", "group": "challenge", "given": "teşfik", "expected_label": "HAYIR", "expected_canonical": "teşvik", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-074", "group": "challenge", "given": "tetanoz", "expected_label": "HAYIR", "expected_canonical": "tetanos", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-075", "group": "challenge", "given": "tiskinmek", "expected_label": "HAYIR", "expected_canonical": "tiksinmek", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-076", "group": "challenge", "given": "tiyo", "expected_label": "HAYIR", "expected_canonical": "tüyo", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-077", "group": "challenge", "given": "tolorans", "expected_label": "HAYIR", "expected_canonical": "tolerans", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-078", "group": "challenge", "given": "traş", "expected_label": "HAYIR", "expected_canonical": "tıraş", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-079", "group": "challenge", "given": "tribuşon", "expected_label": "HAYIR", "expected_canonical": "tirbuşon", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-080", "group": "challenge", "given": "türübün", "expected_label": "HAYIR", "expected_canonical": "tribün", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-081", "group": "challenge", "given": "ukte", "expected_label": "HAYIR", "expected_canonical": "ukde", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-082", "group": "challenge", "given": "ultrasyon", "expected_label": "HAYIR", "expected_canonical": "ultrason", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-083", "group": "challenge", "given": "ultümaton", "expected_label": "HAYIR", "expected_canonical": "ültimatom", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-084", "group": "challenge", "given": "usûl", "expected_label": "HAYIR", "expected_canonical": "usul", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-085", "group": "challenge", "given": "utopya", "expected_label": "HAYIR", "expected_canonical": "ütopya", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-086", "group": "challenge", "given": "ünüforma", "expected_label": "HAYIR", "expected_canonical": "üniforma", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-087", "group": "challenge", "given": "ünvan", "expected_label": "HAYIR", "expected_canonical": "unvan", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-088", "group": "challenge", "given": "üvertür", "expected_label": "HAYIR", "expected_canonical": "uvertür", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-089", "group": "challenge", "given": "valeybol", "expected_label": "HAYIR", "expected_canonical": "voleybol", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-090", "group": "challenge", "given": "vehamet", "expected_label": "HAYIR", "expected_canonical": "vahamet", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-091", "group": "challenge", "given": "vejeteryan", "expected_label": "HAYIR", "expected_canonical": "vejetaryen", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-092", "group": "challenge", "given": "vürüs", "expected_label": "HAYIR", "expected_canonical": "virüs", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-093", "group": "challenge", "given": "lavobo", "expected_label": "HAYIR", "expected_canonical": "lavabo", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-094", "group": "challenge", "given": "yayınlamak", "expected_label": "HAYIR", "expected_canonical": "yayımlamak", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-095", "group": "challenge", "given": "yövmiye", "expected_label": "HAYIR", "expected_canonical": "yevmiye", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-096", "group": "challenge", "given": "zenaat", "expected_label": "HAYIR", "expected_canonical": "zanaat", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-097", "group": "challenge", "given": "zerafet", "expected_label": "HAYIR", "expected_canonical": "zarafet", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-098", "group": "challenge", "given": "zınba", "expected_label": "HAYIR", "expected_canonical": "zımba", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-099", "group": "challenge", "given": "metoroloji", "expected_label": "HAYIR", "expected_canonical": "meteoroloji", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}
+{"id": "T1-W-100", "group": "challenge", "given": "iddaa", "expected_label": "HAYIR", "expected_canonical": "iddia", "notes": "İlk yazım yanlış, ikincisi doğru (kullanıcı verisi)"}

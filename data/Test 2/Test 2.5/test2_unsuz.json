@@ -1,0 +1,107 @@
+[
+  {
+    "id": "T2-UNSUZ-001",
+    "input_raw": "Kitapdasakladığımbelgelerikapakınıçineyerleştiripgecearşivegönderdim",
+    "expected_output_lines": [
+      "Düzeltme: Kitapta sakladığım belgeleri kapağın içine yerleştirip gece arşive gönderdim"
+    ]
+  },
+  {
+    "id": "T2-UNSUZ-002",
+    "input_raw": "Renkdeanideğişimkaydedildiveraporsonunafarklınotudüşüldü",
+    "expected_output_lines": [
+      "Düzeltme: Renkte ani değişim kaydedildi ve rapor sonuna farklı notu düşüldü"
+    ]
+  },
+  {
+    "id": "T2-UNSUZ-003",
+    "input_raw": "Sanatıntarihiüzerinekonuşurkeneskibelgelerikasadagüvenlemuhafazaettik",
+    "expected_output_lines": [
+      "Düzeltme: Sanatın tarihi üzerine konuşurken eski belgeleri kasada güvenle muhafaza ettik"
+    ]
+  },
+  {
+    "id": "T2-UNSUZ-004",
+    "input_raw": "Ağaçdankopankalındalıarabayayüklerkençivikutusunudadüşürdük",
+    "expected_output_lines": [
+      "Düzeltme: Ağaçtan kopan kalın dalı arabaya yüklerken çivi kutusunu da düşürdük"
+    ]
+  },
+  {
+    "id": "T2-UNSUZ-005",
+    "input_raw": "Gençlikdebaşladığımdersdışıdeneylerilaboratuvarınensessizkatındayapıyorum",
+    "expected_output_lines": [
+      "Düzeltme: Gençlikte başladığım ders dışı deneyleri laboratuvarın en sessiz katında yapıyorum"
+    ]
+  },
+  {
+    "id": "T2-UNSUZ-006",
+    "input_raw": "Sütdebulunanlaktozmiktarıarttıkçaölçümcihazıyüksekuyarısıverdi",
+    "expected_output_lines": [
+      "Düzeltme: Sütte bulunan laktoz miktarı arttıkça ölçüm cihazı yüksek uyarısı verdi"
+    ]
+  },
+  {
+    "id": "T2-UNSUZ-007",
+    "input_raw": "Aşağımahalledekiatölyedeüretilenprototipleribugündepoyateslimettik",
+    "expected_output_lines": [
+      "Düzeltme: Aşağı mahalledeki atölyede üretilen prototipleri bugün depoya teslim ettik"
+    ]
+  },
+  {
+    "id": "T2-UNSUZ-008",
+    "input_raw": "Çocuğunelindekikitapıyazarimzaladıvesalondabekleyenlereselamverdi",
+    "expected_output_lines": [
+      "Düzeltme: Çocuğun elindeki kitabı yazar imzaladı ve salonda bekleyenlere selam verdi"
+    ]
+  },
+  {
+    "id": "T2-UNSUZ-009",
+    "input_raw": "Renkdengelenişıkrenkildeğiştirincepanellerinyüzeyirengileörtüşmedi",
+    "expected_output_lines": [
+      "Düzeltme: Renkten gelen ışık rengi değiştirince panellerin yüzeyi renkle örtüşmedi"
+    ]
+  },
+  {
+    "id": "T2-UNSUZ-010",
+    "input_raw": "Uçakdaservisbitdiğindegörevlilerhızlaçöpleritopladı",
+    "expected_output_lines": [
+      "Düzeltme: Uçakta servis bittiğinde görevliler hızla çöpleri topladı"
+    ]
+  },
+  {
+    "id": "T2-UNSUZ-011",
+    "input_raw": "Hukuktatemelilkalertartışılırkenhaklılıkvehaksızlıkaçısındanörneklerincelendi",
+    "expected_output_lines": [
+      "Düzeltme: Hukukta temel ilkeler tartışılırken haklılık ve haksızlık açısından örnekler incelendi"
+    ]
+  },
+  {
+    "id": "T2-UNSUZ-012",
+    "input_raw": "Ağacıngövdesineçakılanmetaletiketdeüretimtarihiokunuyordu",
+    "expected_output_lines": [
+      "Düzeltme: Ağacın gövdesine çakılan metal etikette üretim tarihi okunuyordu"
+    ]
+  },
+  {
+    "id": "T2-UNSUZ-013",
+    "input_raw": "Takvimdehaftabaşıgörevlendirmelerilistelendivetebliğlerimzakarşılığıdağıtıldı",
+    "expected_output_lines": [
+      "Düzeltme: Takvimde hafta başı görevlendirmeleri listelendi ve tebliğler imza karşılığı dağıtıldı"
+    ]
+  },
+  {
+    "id": "T2-UNSUZ-014",
+    "input_raw": "Toplantıbitdiktensonraraportaslağıyönetimkurulundaokutuldu",
+    "expected_output_lines": [
+      "Düzeltme: Toplantı bittikten sonra rapor taslağı yönetim kurulunda okutuldu"
+    ]
+  },
+  {
+    "id": "T2-UNSUZ-015",
+    "input_raw": "Kitapçıdanaldığımciltlieserlermasanınüstündedururkenkapakınköşesiaçıldı",
+    "expected_output_lines": [
+      "Düzeltme: Kitapçıdan aldığım ciltli eserler masanın üstünde dururken kapağın köşesi açıldı"
+    ]
+  }
+]
