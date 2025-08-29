@@ -1,4 +1,4 @@
-# TR-LLM Türkçe Performans Analizi
+# Büyük Dil Modellerinin Türkçe Dil Becerileri: Kapsamlı Bir Performans Analizi
 
 Beş güncel büyük dil modelinin (GPT-5 Thinking, Gemini 2.5 Pro, Claude 4 Sonnet, Grok 3, DeepSeek R1) **Türkçe dil becerileri**; yazım, dil bilgisi, anlama ve mantık boyutlarında **500 soruluk** bir çerçeve ile değerlendirilmiştir.
 
